@@ -10,4 +10,5 @@ public class Question {
     private String name;
     private String description;
     private String type;
+    private Question parent;
 }
